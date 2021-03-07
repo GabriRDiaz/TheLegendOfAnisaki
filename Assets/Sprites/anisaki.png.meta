@@ -1,0 +1,2868 @@
+fileFormatVersion: 2
+guid: 3be9b969d9bd64641b840e601650efbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -909617108141966383
+    second: anisaki_0
+  - first:
+      213: -2845598018561264
+    second: anisaki_1
+  - first:
+      213: 7555349781348375535
+    second: anisaki_2
+  - first:
+      213: -2738137437745658330
+    second: anisaki_3
+  - first:
+      213: -645835567775856859
+    second: anisaki_4
+  - first:
+      213: 1778619714693717858
+    second: anisaki_5
+  - first:
+      213: -5185437499205502127
+    second: anisaki_6
+  - first:
+      213: 5321743456993935994
+    second: anisaki_7
+  - first:
+      213: -3936679862584712670
+    second: anisaki_8
+  - first:
+      213: -2428731935805655187
+    second: anisaki_9
+  - first:
+      213: 393498783656296248
+    second: anisaki_10
+  - first:
+      213: -4594091411661688172
+    second: anisaki_11
+  - first:
+      213: 7741215489465093049
+    second: anisaki_12
+  - first:
+      213: 75375847478937386
+    second: anisaki_13
+  - first:
+      213: 4728837058955669656
+    second: anisaki_14
+  - first:
+      213: 2189409129075959029
+    second: anisaki_15
+  - first:
+      213: 5426426775672135562
+    second: anisaki_16
+  - first:
+      213: -8456399756438219065
+    second: anisaki_17
+  - first:
+      213: -5922256798884263320
+    second: anisaki_18
+  - first:
+      213: 8363177900403541704
+    second: anisaki_19
+  - first:
+      213: -3347636513923011769
+    second: anisaki_20
+  - first:
+      213: 489422553386192375
+    second: anisaki_21
+  - first:
+      213: -8954517944660676276
+    second: anisaki_22
+  - first:
+      213: 6168192585685825122
+    second: anisaki_23
+  - first:
+      213: -3367934412371597583
+    second: anisaki_24
+  - first:
+      213: -6462206277331573717
+    second: anisaki_25
+  - first:
+      213: -1738883191524818336
+    second: anisaki_26
+  - first:
+      213: -6843370175367718352
+    second: anisaki_27
+  - first:
+      213: 6924896355053523023
+    second: anisaki_28
+  - first:
+      213: 4795052995250417287
+    second: anisaki_29
+  - first:
+      213: 4259323065865776361
+    second: anisaki_30
+  - first:
+      213: 8185673306510281814
+    second: anisaki_31
+  - first:
+      213: -1895215286941984958
+    second: anisaki_32
+  - first:
+      213: 4658559140425940030
+    second: anisaki_33
+  - first:
+      213: -2284665899265691536
+    second: anisaki_34
+  - first:
+      213: 3754283719664269077
+    second: anisaki_35
+  - first:
+      213: -6082842390240742768
+    second: anisaki_36
+  - first:
+      213: 576451294098044403
+    second: anisaki_37
+  - first:
+      213: -4064124518460848894
+    second: anisaki_38
+  - first:
+      213: 7257569853959642656
+    second: anisaki_39
+  - first:
+      213: 8067918690490941996
+    second: anisaki_40
+  - first:
+      213: -4017816539668285955
+    second: anisaki_41
+  - first:
+      213: 1545355354204357348
+    second: anisaki_42
+  - first:
+      213: -5488999060377977396
+    second: anisaki_43
+  - first:
+      213: -8651279642467128045
+    second: anisaki_44
+  - first:
+      213: -3569252855219411377
+    second: anisaki_45
+  - first:
+      213: -4188153487333818046
+    second: anisaki_46
+  - first:
+      213: 3267826030937893074
+    second: anisaki_47
+  - first:
+      213: 5860493674029112616
+    second: anisaki_48
+  - first:
+      213: 3847247069938847025
+    second: anisaki_49
+  - first:
+      213: -6556508267359299580
+    second: anisaki_50
+  - first:
+      213: -3487695766986404688
+    second: anisaki_51
+  - first:
+      213: 6870006309722500097
+    second: anisaki_52
+  - first:
+      213: 5016088982842756817
+    second: anisaki_53
+  - first:
+      213: -7928202711688469370
+    second: anisaki_54
+  - first:
+      213: -627672213718716778
+    second: anisaki_55
+  - first:
+      213: -3104414563952029024
+    second: anisaki_56
+  - first:
+      213: -6983168806073714102
+    second: anisaki_57
+  - first:
+      213: -974067986288491023
+    second: anisaki_58
+  - first:
+      213: 8630260684160462422
+    second: anisaki_59
+  - first:
+      213: 6319730268810429300
+    second: anisaki_60
+  - first:
+      213: -8413198960242464555
+    second: anisaki_61
+  - first:
+      213: -4452604606403522280
+    second: anisaki_62
+  - first:
+      213: 8494322167130966316
+    second: anisaki_63
+  - first:
+      213: 572599416565455682
+    second: anisaki_64
+  - first:
+      213: -9051944562065784211
+    second: anisaki_65
+  - first:
+      213: -7379330666635530369
+    second: anisaki_66
+  - first:
+      213: -5195690008009200444
+    second: anisaki_67
+  - first:
+      213: 6417220084231990307
+    second: anisaki_68
+  - first:
+      213: 3130581232391628867
+    second: anisaki_69
+  - first:
+      213: -7074294810703093802
+    second: anisaki_70
+  - first:
+      213: 988297971054631402
+    second: anisaki_71
+  - first:
+      213: 2705343846202550605
+    second: anisaki_72
+  - first:
+      213: 674068500619247408
+    second: anisaki_73
+  - first:
+      213: 7673456410258307530
+    second: anisaki_74
+  - first:
+      213: 7496348185636630130
+    second: anisaki_75
+  - first:
+      213: 7853558368583775616
+    second: anisaki_76
+  - first:
+      213: -7178832879906896442
+    second: anisaki_77
+  - first:
+      213: 6168034609820289086
+    second: anisaki_78
+  - first:
+      213: 7592861627378696464
+    second: anisaki_79
+  - first:
+      213: 6955985987268978413
+    second: anisaki_80
+  - first:
+      213: 3751106348267781505
+    second: anisaki_81
+  - first:
+      213: 4884800079599763455
+    second: anisaki_82
+  - first:
+      213: -7958228285248857256
+    second: anisaki_83
+  - first:
+      213: -1815662211431031769
+    second: anisaki_84
+  - first:
+      213: 9039359532650431672
+    second: anisaki_85
+  - first:
+      213: 8595225198702573938
+    second: anisaki_86
+  - first:
+      213: -4390387982537157241
+    second: anisaki_87
+  - first:
+      213: 249867421624468997
+    second: anisaki_88
+  - first:
+      213: 761825334209570145
+    second: anisaki_89
+  - first:
+      213: -8556980874027403496
+    second: anisaki_90
+  - first:
+      213: -6331266698383758289
+    second: anisaki_91
+  - first:
+      213: 3189704143820783284
+    second: anisaki_92
+  - first:
+      213: -684771389700359668
+    second: anisaki_93
+  - first:
+      213: -3093940800846668424
+    second: anisaki_94
+  - first:
+      213: 7789355609791945662
+    second: anisaki_95
+  - first:
+      213: -1107068238577512091
+    second: anisaki_96
+  - first:
+      213: -7909417327080712582
+    second: anisaki_97
+  - first:
+      213: 4208454301810312767
+    second: anisaki_98
+  - first:
+      213: -819663772528531925
+    second: anisaki_99
+  - first:
+      213: -5231861151585569370
+    second: anisaki_100
+  - first:
+      213: 4689095256845999758
+    second: anisaki_101
+  - first:
+      213: 566072641216855841
+    second: anisaki_102
+  - first:
+      213: -4407299542628595754
+    second: anisaki_103
+  - first:
+      213: 8425479161855027923
+    second: anisaki_104
+  - first:
+      213: -2386681155844698673
+    second: anisaki_105
+  - first:
+      213: 5120161890739973037
+    second: anisaki_106
+  - first:
+      213: 8286920586324833366
+    second: anisaki_107
+  - first:
+      213: 2944062872382578256
+    second: anisaki_108
+  - first:
+      213: 5846244443348206174
+    second: anisaki_109
+  - first:
+      213: 4470573794401946317
+    second: anisaki_110
+  - first:
+      213: 1330164556229043525
+    second: anisaki_111
+  - first:
+      213: -1923912087961862658
+    second: anisaki_112
+  - first:
+      213: -5762426507149858820
+    second: anisaki_113
+  - first:
+      213: -3998263273771551496
+    second: anisaki_114
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anisaki_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 276
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db749b3f046063f0800000000000000
+      internalID: -909617108141966383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 276
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b1ee491f3e5fff0800000000000000
+      internalID: -2845598018561264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 276
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb581f989ef9d860800000000000000
+      internalID: 7555349781348375535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 276
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626c8f4f18e200ad0800000000000000
+      internalID: -2738137437745658330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_4
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 278
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527486f09f78907f0800000000000000
+      internalID: -645835567775856859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_5
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 278
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f53dcf43deea810800000000000000
+      internalID: 1778619714693717858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 246
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bbdde6110a908b0800000000000000
+      internalID: -5185437499205502127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 246
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7202e37a71aad940800000000000000
+      internalID: 5321743456993935994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 246
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222643cb58a1e59c0800000000000000
+      internalID: -3936679862584712670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 245
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6738af1c296b4ed0800000000000000
+      internalID: -2428731935805655187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 246
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fb1631f0df57500800000000000000
+      internalID: 393498783656296248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 246
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4927b3e93328e30c0800000000000000
+      internalID: -4594091411661688172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 246
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb815319725e6b60800000000000000
+      internalID: 7741215489465093049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 245
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2740a51fe9cb0100800000000000000
+      internalID: 75375847478937386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 245
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89071cb204430a140800000000000000
+      internalID: 4728837058955669656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 245
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4e19eb008526e10800000000000000
+      internalID: 2189409129075959029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_16
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 246
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f1b9be66a8e4b40800000000000000
+      internalID: 5426426775672135562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 246
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6dcc6b935d4aa80800000000000000
+      internalID: -8456399756438219065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_18
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 245
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a8cd1a1daefcda0800000000000000
+      internalID: -5922256798884263320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_19
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 245
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c643fa8df9ff0470800000000000000
+      internalID: 8363177900403541704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 223
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bed7eb35eca81d0800000000000000
+      internalID: -3347636513923011769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 215
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd06af1837cac600800000000000000
+      internalID: 489422553386192375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 217
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41b3a55f592bb380800000000000000
+      internalID: -8954517944660676276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 216
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2667008e972d99550800000000000000
+      internalID: 6168192585685825122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 216
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6e6cbfe71b241d0800000000000000
+      internalID: -3367934412371597583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 217
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b242a5601a1a156a0800000000000000
+      internalID: -6462206277331573717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 217
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062044743fe3ed7e0800000000000000
+      internalID: -1738883191524818336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_27
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 216
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a54be45177701a0800000000000000
+      internalID: -6843370175367718352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 216
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40dc559b8c2a1060800000000000000
+      internalID: 6924896355053523023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_29
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 216
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ee21d3b437b8240800000000000000
+      internalID: 4795052995250417287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_30
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 216
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecae84f2c72c1b30800000000000000
+      internalID: 4259323065865776361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_31
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 216
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c41f1b08a599170800000000000000
+      internalID: 8185673306510281814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 216
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247dee0ecb7d2b5e0800000000000000
+      internalID: -1895215286941984958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 186
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cbc3a2bd686a040800000000000000
+      internalID: 4658559140425940030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_34
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 185
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070f1d3287c3b40e0800000000000000
+      internalID: -2284665899265691536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_35
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 182
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517fe98e625e91430800000000000000
+      internalID: 3754283719664269077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 182
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09233090317659ba0800000000000000
+      internalID: -6082842390240742768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 183
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f53707d567fff700800000000000000
+      internalID: 576451294098044403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_38
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 184
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2058f2a78445997c0800000000000000
+      internalID: -4064124518460848894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_39
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 188
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e19d5745118b460800000000000000
+      internalID: 7257569853959642656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_40
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 186
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c228277ad4107ff60800000000000000
+      internalID: 8067918690490941996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_41
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 185
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5f16cf429dd38c0800000000000000
+      internalID: -4017816539668285955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 187
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2491bc184327510800000000000000
+      internalID: 1545355354204357348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_43
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 187
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdb7b1cf6823d3b0800000000000000
+      internalID: -5488999060377977396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_44
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 182
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dad2a600b70f780800000000000000
+      internalID: -8651279642467128045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_45
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 186
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46291b5077777ec0800000000000000
+      internalID: -3569252855219411377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_46
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 164
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24187a2d790b0e5c0800000000000000
+      internalID: -4188153487333818046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 156
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8e3d12676a95d20800000000000000
+      internalID: 3267826030937893074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 155
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ddde042f7a45150800000000000000
+      internalID: 5860493674029112616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 156
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d0ed693da246530800000000000000
+      internalID: 3847247069938847025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_50
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 156
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408132df77a9205a0800000000000000
+      internalID: -6556508267359299580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_51
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 156
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc4424bd27399fc0800000000000000
+      internalID: -3487695766986404688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_52
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 155
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ca3bff65a275f50800000000000000
+      internalID: 6870006309722500097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_53
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 156
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dec7108a5abc9540800000000000000
+      internalID: 5016088982842756817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_54
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 156
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684258e93ad59f190800000000000000
+      internalID: -7928202711688469370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_55
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 155
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ea9e9727f0a47f0800000000000000
+      internalID: -627672213718716778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_56
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 155
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a21718e667eae4d0800000000000000
+      internalID: -3104414563952029024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_57
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 156
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a336328fcc61f90800000000000000
+      internalID: -6983168806073714102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 156
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5c13ac35a6b72f0800000000000000
+      internalID: -974067986288491023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_59
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 155
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e676efd58d4c770800000000000000
+      internalID: 8630260684160462422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_60
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 155
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473cab4323134b750800000000000000
+      internalID: 6319730268810429300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 126
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8ef06ee105e3b80800000000000000
+      internalID: -8413198960242464555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_62
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 127
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811dc0e83bb2532c0800000000000000
+      internalID: -4452604606403522280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_63
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 126
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2941939105e1e570800000000000000
+      internalID: 8494322167130966316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_64
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 126
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bdaf6b22842f700800000000000000
+      internalID: 572599416565455682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_65
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 126
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d624a8b4168016280800000000000000
+      internalID: -9051944562065784211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_66
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 126
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fea072bd9579990800000000000000
+      internalID: -7379330666635530369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_67
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 126
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cca095377335e7b0800000000000000
+      internalID: -5195690008009200444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_68
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 126
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c662eaaab8e0950800000000000000
+      internalID: 6417220084231990307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_69
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 126
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34825395b0f027b20800000000000000
+      internalID: 3130581232391628867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_70
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 126
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df17a3d95e03dd90800000000000000
+      internalID: -7074294810703093802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_71
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 126
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae953f8b4c327bd00800000000000000
+      internalID: 988297971054631402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_72
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 103
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49213405ef4b8520800000000000000
+      internalID: 2705343846202550605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fb0bddab5ca5900800000000000000
+      internalID: 674068500619247408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_74
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 92
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9f3ec03f79d7a60800000000000000
+      internalID: 7673456410258307530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_75
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 90
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ee38d15f0680860800000000000000
+      internalID: 7496348185636630130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_76
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 92
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0857b3ee9b17dfc60800000000000000
+      internalID: 7853558368583775616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_77
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 96
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c54143e789af5c90800000000000000
+      internalID: -7178832879906896442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_78
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 96
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3847a84cc2499550800000000000000
+      internalID: 6168034609820289086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_79
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 95
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0110a90eb634f5960800000000000000
+      internalID: 7592861627378696464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_80
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 97
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de623c9a660a88060800000000000000
+      internalID: 6955985987268978413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_81
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 97
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18db63b795b9e0430800000000000000
+      internalID: 3751106348267781505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_82
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 92
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffff757aacb4ac340800000000000000
+      internalID: 4884800079599763455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_83
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 96
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b96400a81be8190800000000000000
+      internalID: -7958228285248857256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 42
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c9d87a6d87dc6e0800000000000000
+      internalID: -1815662211431031769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_85
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 42
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b48ba43a91427d70800000000000000
+      internalID: 9039359532650431672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_86
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 70
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279372d57cf584770800000000000000
+      internalID: 8595225198702573938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_87
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 67
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7859ab224653213c0800000000000000
+      internalID: -4390387982537157241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_88
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 66
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5068eda9815b77300800000000000000
+      internalID: 249867421624468997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_89
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 62
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165647aea1c829a00800000000000000
+      internalID: 761825334209570145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 66
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817f8cd5b3f7f3980800000000000000
+      internalID: -8556980874027403496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_91
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 64
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c63987b72d228a0800000000000000
+      internalID: -6331266698383758289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_92
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 64
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be770fd40b144c20800000000000000
+      internalID: 3189704143820783284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_93
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 44
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a3f849c043f76f0800000000000000
+      internalID: -684771389700359668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_94
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 44
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d5279eb3d1015d0800000000000000
+      internalID: -3093940800846668424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_95
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 40
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb58d648a9591c60800000000000000
+      internalID: 7789355609791945662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_96
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 44
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56158717d47e2a0f0800000000000000
+      internalID: -1107068238577512091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_97
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 43
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76d80fc8da1c3290800000000000000
+      internalID: -7909417327080712582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_98
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 33
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f364ed0e3ee676a30800000000000000
+      internalID: 4208454301810312767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_99
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 36
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b262e234428ff94f0800000000000000
+      internalID: -819663772528531925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_100
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 30
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a573919002b467b0800000000000000
+      internalID: -5231861151585569370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_101
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 33
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e564eca43031140800000000000000
+      internalID: 4689095256845999758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_102
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f3cc861181bd700800000000000000
+      internalID: 566072641216855841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_103
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 6
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d781e6ba6026d2c0800000000000000
+      internalID: -4407299542628595754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 7
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da23d858a05de470800000000000000
+      internalID: 8425479161855027923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_105
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 6
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd02c9422ec0eed0800000000000000
+      internalID: -2386681155844698673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_106
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 7
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab6c02ac187e0740800000000000000
+      internalID: 5120161890739973037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_107
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65473c50e5e010370800000000000000
+      internalID: 8286920586324833366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_108
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 6
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e97c885996bd820800000000000000
+      internalID: 2944062872382578256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_109
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e520fd3b858022150800000000000000
+      internalID: 5846244443348206174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_110
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca8f7d0e2baa0e30800000000000000
+      internalID: 4470573794401946317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_111
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545e8dacd91b57210800000000000000
+      internalID: 1330164556229043525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_112
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 6
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdf3f93624ec45e0800000000000000
+      internalID: -1923912087961862658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_113
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 5
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7a9055f9fb700b0800000000000000
+      internalID: -5762426507149858820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anisaki_114
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f43b587cb05388c0800000000000000
+      internalID: -3998263273771551496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

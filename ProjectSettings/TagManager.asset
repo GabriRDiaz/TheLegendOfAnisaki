@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - HitPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Health
+  - Water
+  - UI
+  - CamBounds
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1819728419
+    locked: 0
+  - name: Foreground
+    uniqueID: 2464743107
+    locked: 0
+  - name: Things
+    uniqueID: 1262683287
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Details
+    uniqueID: 2978575991
+    locked: 0
+  - name: UI
+    uniqueID: 2229957363
+    locked: 0
